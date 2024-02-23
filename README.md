@@ -2,7 +2,7 @@
 - 👀 I’m am enthusiast in Data Science
 - 🌱 I’m currently learning skills related to Data 
 - 💞️ I’m looking to collaborate on projects based on Data Science
-- 📫 How to reach me on linkedIn
+- 📫 You can reach me on linkedIn -->https://www.linkedin.com/in/aditya-agarwal-50221125b/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
